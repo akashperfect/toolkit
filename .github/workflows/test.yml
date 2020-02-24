@@ -1,4 +1,4 @@
-name: toolkit-unit-tests
+name: edited-tests
 on:
   push:
     branches:
